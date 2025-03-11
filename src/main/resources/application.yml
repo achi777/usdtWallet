@@ -1,0 +1,6 @@
+server:
+  port: 8080
+
+tron:
+  node-url: "https://api.trongrid.io"
+  api-key: "c21b4ae5-85f4-4791-9f93-1535e0c1be8a"
